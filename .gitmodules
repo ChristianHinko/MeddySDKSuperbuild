@@ -1,12 +1,12 @@
-[submodule "MeddySDKSuperbuild/MeddySDK.Meddyproject"]
-	path = MeddySDKSuperbuild/MeddySDK.Meddyproject
-	url = https://github.com/ChristianHinko/MeddySDK.Meddyproject.git
-[submodule "MeddySDKSuperbuild/MeddySDK.Meddydata"]
-	path = MeddySDKSuperbuild/MeddySDK.Meddydata
-	url = https://github.com/ChristianHinko/MeddySDK.Meddydata.git
-[submodule "MeddySDKSuperbuild/MeddySDK.DAM"]
-	path = MeddySDKSuperbuild/MeddySDK.DAM
-	url = https://github.com/ChristianHinko/MeddySDK.DAM.git
+[submodule "MeddySDKSuperbuild/MeddySDK_Meddyproject"]
+	path = MeddySDKSuperbuild/MeddySDK_Meddyproject
+	url = https://github.com/ChristianHinko/MeddySDK_Meddyproject.git
+[submodule "MeddySDKSuperbuild/MeddySDK_Meddydata"]
+	path = MeddySDKSuperbuild/MeddySDK_Meddydata
+	url = https://github.com/ChristianHinko/MeddySDK_Meddydata.git
+[submodule "MeddySDKSuperbuild/MeddySDK_DAM"]
+	path = MeddySDKSuperbuild/MeddySDK_DAM
+	url = https://github.com/ChristianHinko/MeddySDK_DAM.git
 [submodule "MeddySDKSuperbuild/MeddySDKCLI"]
 	path = MeddySDKSuperbuild/MeddySDKCLI
 	url = https://github.com/ChristianHinko/MeddySDKCLI.git
